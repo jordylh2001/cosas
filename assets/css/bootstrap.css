@@ -3476,7 +3476,12 @@ input[type="button"].btn-block {
   padding: 1.25rem; }
 
 .card-title {
-  margin-bottom: 0.9375rem; }
+  margin-bottom: 0.9375rem; 
+}
+div#card-title2{
+  margin-bottom: 0.9375rem; 
+  background-color:  #5D6770;
+}
 
 .card-subtitle {
   margin-top: -0.46875rem;
